@@ -74,7 +74,7 @@
 
 /* Process Section */
 .processSection {
-  max-height: 100vh;
+  max-height: 200vh;
   position: relative;
   overflow: hidden;
 }
@@ -132,7 +132,7 @@
 
 /* Features Section */
 .featuresSection {
-  max-height: 100vh;
+  max-height: 200vh;
   padding: 4rem 2rem;
   background: linear-gradient(135deg, #1a1a1a 0%, #0f0f0f 100%);
 }
@@ -166,7 +166,7 @@
 
 /* Technical Section */
 .technicalSection {
-  max-height: 100vh;
+  max-height: 200vh;
   padding: 4rem 2rem;
   background: rgba(0, 0, 0, 0.7);
 }
@@ -218,7 +218,7 @@
 
 /* Conclusion Section */
 .conclusionSection {
-  max-height: 100vh;
+  max-height: 200vh;
   padding: 4rem 2rem;
   background: linear-gradient(45deg, #0f0f0f 0%, #1a1a1a 100%);
   display: flex;
